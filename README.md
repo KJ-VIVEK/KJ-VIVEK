@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KJ-VIVEK
-- 👀 I’m interested in ... Driver Development, Firmaware development, ML and DL for Automotive application
+- 👀 I’m interested in ... Driver Development, Firmware development, ML and DL for Automotive application
 - 👀 I’ve Worked on ... Driver Development for RCC, GPIO, I2C, SPI, ADC, TIMERS
 - 🌱 I’m currently learning ... CARLA Simulator, FreeRTOS, Python
 - 🌱 I’m currently Working on ... Using CARLA.
