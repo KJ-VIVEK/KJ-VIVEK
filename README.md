@@ -4,7 +4,7 @@
 - 🌱 I’m currently Working on ... CARLA.
 - 👀 My Published works ... 
                     - "Analysis of Teacher-Student Learning Style on Student Feedback Using Manhattan Algorithm", IEEEXplore, Feb2020.
-                    - "Driver Pattern Recognition System", Springer, Aug2021.
+                    - "Driver Pattern Recognition System", Springer, Singapore Aug2021.
 - 📫 How to reach me ... vivekgit19@gmail.com
 
 <!---
