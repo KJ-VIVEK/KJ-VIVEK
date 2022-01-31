@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KJ-VIVEK
 - 👀 I’m interested in ... Firmware development.
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python, Coreboot
 - 🌱 I’m currently Working on ... 
-     - Writing startup and linker files for ARM M4 STM32.
      - Re-writing drivers for basic protocols.
 - 👀 My Published works ... 
      - "Analysis of Teacher-Student Learning Style on Student Feedback Using Manhattan Algorithm", IEEEXplore, Feb2020.
