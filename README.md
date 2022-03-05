@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KJ-VIVEK
-- 👀 I’m interested in ... Firmware development.
+- 👀 I’m interested in ... Firmware development, Embedded AI.
 - 🌱 I’m currently learning ... Python, Coreboot
 - 🌱 I’m currently Working on ... 
      - Re-writing drivers for basic protocols.
