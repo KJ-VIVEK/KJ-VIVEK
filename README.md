@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KJ-VIVEK
 - 👀 I’m interested in ... Firmware development, Embedded AI.
-- 🌱 I’m currently learning ... Python, Coreboot
+- 🌱 I’m currently learning ... 
 - 🌱 I’m currently Working on ... 
-     - Re-writing drivers for basic protocols.
+     - 
 - 👀 My Published works ... 
      - "Analysis of Teacher-Student Learning Style on Student Feedback Using Manhattan Algorithm", IEEEXplore, Feb2020.
      - "Driver Pattern Recognition System", Springer, Singapore Aug2021.
