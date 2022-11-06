@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KJ-VIVEK
 - 👀 I’m interested in ... Firmware development, Embedded AI.
-- 🌱 I’m currently learning ... HTML
+- 🌱 I’m currently learning ... TinyML
 - 🌱 I’m currently Working on ... 
      - Building wesbite using github
 - 👀 My Published works ... 
