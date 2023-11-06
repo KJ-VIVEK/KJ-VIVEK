@@ -1,15 +1,14 @@
-- 👋 Hi, I’m @KJ-VIVEK
-- 👀 I’m interested in ... Firmware development.
-- 🌱 I’m currently learning ... How to break and fix things that run the world.
-- 🌱 I’m currently Working on ... 
-     - Building wesbite using github - lol, still struggling.
-     - Creating website to understand basics of how a code runs on HW and help others in the way.
-- 👀 My Published works ... 
-     - "Analysis of Teacher-Student Learning Style on Student Feedback Using Manhattan Algorithm", IEEEXplore, Feb2020.
-     - "Driver Pattern Recognition System", Springer, Singapore Aug2021.
-- 📫 How to reach me ... vivekgit19@gmail.com
+<h1 align="center">Hi 👋, I'm Vivek</h1>
+<h3 align="center">Breaking the Hardware by writing Firmware.</h3>
 
-<!---
-KJ-VIVEK/KJ-VIVEK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kj-vivek&label=Profile%20views&color=0e75b6&style=flat" alt="kj-vivek" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.hackerrank.com/@vivekgit19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vivekgit19" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kj-vivek&show_icons=true&locale=en&layout=compact" alt="kj-vivek" /></p>
