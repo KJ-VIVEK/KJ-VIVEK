@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">Breaking the Hardware by writing Firmware.</h3>
+<h3 align="center">Breaking the Hardware by coding. Nah, Reset!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kj-vivek&label=Profile%20views&color=0e75b6&style=flat" alt="kj-vivek" /> </p>
+
+- 📫 How to reach me **vivekgit19@gmail.com**
+
+- 📄 My Publications [- "Analysis of Teacher-Student Learning Style on Student Feedback Using Manhattan Algorithm", IEEEXplore, Feb2020. \n - "Driver Pattern Recognition System", Springer, Singapore Aug2021.](- "Analysis of Teacher-Student Learning Style on Student Feedback Using Manhattan Algorithm", IEEEXplore, Feb2020. \n - "Driver Pattern Recognition System", Springer, Singapore Aug2021.)
+
+- ⚡ Fact **I am building my folio.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
