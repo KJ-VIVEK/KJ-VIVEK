@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Summary: NA</p>
+<p align="left">Summary: I began my career as a hardware design engineer, where I worked on developing, testing, and ensuring the functionality of DUTs. I consider myself fortunate to have discovered my true passion. I made a decision to further my education in the field of electronics by focusing on firmware development. I joined VIT, Vellore, completed my Masters in Embedded Systems, and joined Intel, India, as a firmware developer. Now, I am working with brilliant minds 🧠 to make sure the tech world runs 🌟🤓.</p>
 
 ###
 
@@ -47,17 +47,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KJ-VIVEK&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KJ-VIVEK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/KJ-VIVEK/KJ-VIVEK/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/KJ-VIVEK/count.svg?"  />
-</div>
-
-###
